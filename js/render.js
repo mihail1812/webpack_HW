@@ -1,4 +1,5 @@
 export function renderItem (item){
+    
     const itemElement = document.createElement('div');
     itemElement.className = "content__item";
 
